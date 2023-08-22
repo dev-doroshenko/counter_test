@@ -1,0 +1,21 @@
+databaseChangeLog:
+  - changeSet:
+      id: create-table-counter
+      author: Volodymyr Doroshenko
+      changes:
+        - createTable:
+            tableName: counter
+            columns:
+              - column:
+                  autoIncrement: true
+                  constraints:
+                    nullable: false
+                    primaryKey: true
+                    primaryKeyName: user_pkey
+                  name: id
+                  type: BIGINT
+              - column:
+                  constraints:
+                    nullable: false
+                  name: counter_value
+                  type: BIGINT
