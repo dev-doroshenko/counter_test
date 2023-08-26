@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785370374966",
+    "project_id": "counter-app-vd",
+    "storage_bucket": "counter-app-vd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785370374966:android:a6a88a9dc39199c6438997",
+        "android_client_info": {
+          "package_name": "com.example.client_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785370374966-t3dpv2qupm89jtfttvush7t49tc8mtp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxnkhWuMKpQoi_9qAphTBzj6Xg3kmuPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785370374966-t3dpv2qupm89jtfttvush7t49tc8mtp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
